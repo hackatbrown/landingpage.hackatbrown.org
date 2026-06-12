@@ -34,7 +34,8 @@ export default function LandingPage() {
             </p>
             <p className="mt-4 font-sans text-sm leading-snug sm:mt-5 md:mt-7 md:text-base">
               <a
-                href="https://hackatbrown.org"
+                href="https://forms.gle/LiqgXqdzEumGBmQQ9"
+                target="_blank"
                 className="text-yellow underline underline-offset-2"
               >
                 Stay in touch
