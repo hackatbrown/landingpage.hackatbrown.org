@@ -40,6 +40,17 @@ export default function LandingPage() {
               COMING SOON! FEBRUARY 6-7, 2027
             </p>
             <p className="mt-4 font-sans text-sm leading-snug sm:mt-5 md:mt-7 md:text-base">
+              <span className="text-white"> Brown/RISD students: </span>
+              <a
+                href="https://forms.gle/djsKswQbrYYmFPeh7"
+                target="_blank"
+                className="text-yellow underline underline-offset-2"
+              >
+                apply for organizing team
+              </a>
+              <span className="text-white">! Applications close 9/14</span>
+            </p>
+            <p className="mt-1 font-sans text-sm leading-snug md:text-base">
               <a
                 href="https://forms.gle/djsKswQbrYYmFPeh7"
                 target="_blank"
@@ -47,7 +58,7 @@ export default function LandingPage() {
               >
                 Stay in touch
               </a>
-              <span className="text-white"> when applications open!</span>
+              <span className="text-white"> when hacker applications open!</span>
             </p>
           </div>
         </div>
